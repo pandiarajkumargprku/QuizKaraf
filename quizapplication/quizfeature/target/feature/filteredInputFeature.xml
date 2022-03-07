@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<features name="quizfeature-1.0-SNAPSHOT" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+
+    <feature name='quizfeature' description='quizfeature-feature' version='1.0-SNAPSHOT'>
+        <details>quizfeature details</details>
+        <!-- <config>foo=bar</config> -->
+    </feature>
+
+</features>
